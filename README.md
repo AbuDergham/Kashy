@@ -123,7 +123,7 @@
 
 لأي استفسار أو مشكلة:
 
-- 📧 **البريد الإلكتروني:** support@kashy-pos.com
+- 📧 **البريد الإلكتروني:** mc.a404@gmail.com
 - 🐛 **الإبلاغ عن مشكلة:** [GitHub Issues](https://github.com/AbuDergham/Kashy/issues)
 
 ---
